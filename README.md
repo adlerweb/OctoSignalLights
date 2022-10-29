@@ -1,7 +1,7 @@
 # OctoSignalLights
 *OctoSignalLights* is a small script for *ESP8266* based microcontrollers to poll an *OctoPrint* instance via API and display the current print status on a signal light column.
 
-![Example circuit](https://github.com/adlerweb/OctoSignalLights/blob/master/doc/blink.gif?raw=true)
+![Example circuit](https://github.com/adlerweb/OctoSignalLights/blob/main/doc/blink.gif?raw=true)
 
 ## Pinout & Displays
 
